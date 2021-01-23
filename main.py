@@ -181,6 +181,7 @@ if __name__ == '__main__':
         f.close()
     
     raise Exception("No!")
+
     for person, base_url in republicans.items():
         try: f = get_all_text(base_url, person)
         except ConnectionResetError: continue
