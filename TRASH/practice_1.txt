@@ -1,0 +1,6506 @@
+Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+
+
+#fancy_box-1 {
+
+background: #0a0a0a;
+
+}
+
+
+
+#fancy_box-1 .box-wrap {
+
+background: #000;
+
+}
+
+#fancy_box-1 .box-wrap {
+
+background: #000;
+
+max-width: 550px;
+
+margin: 0 auto 0 0;
+
+}
+
+#fancy_box-1 .box {
+
+margin-left: auto;
+
+margin-right: -660px;
+
+max-width: 700px;
+
+background: #192b60;
+
+}
+
+
+
+#fancy_box-1 .box-wrap {     margin-left: 18%; }
+
+
+
+@media (max-width: 1600px) {  #fancy_box-1 .box-wrap {     margin-left: 12%; } }
+
+
+
+@media (max-width: 1366px) {  #fancy_box-1 .box-wrap {     margin-left: 4%; } }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.topper.has-big-text h4 {
+
+margin-top: 45px
+
+}
+
+
+
+.topper p.additional-text {
+
+margin-top: 0;
+
+}
+
+.topper .cta-wrap {
+
+padding-top: 20px;
+
+}
+
+
+
+
+
+
+
+<style>
+
+@media (min-width: 768px) {
+
+.topper span.img.is-burn.center:before {
+
+content: '';
+
+display: block;
+
+position: absolute;
+
+height: 190px;
+
+width: 100%;
+
+background-image: linear-gradient(to top,rgba(21,39,95,0) 33%,#15275F 92%);
+
+opacity: 0.4;
+
+}
+
+}
+
+
+
+.topper .treated-image .is-bg {
+
+background-position: 75% top;
+
+}
+
+@media (max-width: 375px) {
+
+.topper.has-image.has-big-text {
+
+padding: 64% 0 6.5%;
+
+}
+
+}
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+.video-wrap video {
+
+-webkit-transform: translateX(-50%) translateY(-41%);
+
+-moz-transform: translateX(-50%) translateY(-41%);
+
+-ms-transform: translateX(-50%) translateY(-41%);
+
+-o-transform: translateX(-50%) translateY(-41%);
+
+transform: translateX(-50%) translateY(-41%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G O � B I G   
+
+B E � B O L D   
+
+D O � G O O D   
+
+Keep Eric Fighting 
+
+Donate to protect what's important - our healthcare, our future, and our democracy.     
+
+
+
+            Donate!                                     
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        WHO I AM             
+
+
+My Story Are you ready to go big, be bold and do good with me? 
+For the last six years, I�ve represented California�s 15th Congressional District, including much of the eastern San Francisco Bay Area. I was born in Iowa and spent my early years in Algona, where my dad served as police chief, before our family moved around and eventually settled in Dublin, Calif...  Story Continues 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endgame   by Eric Swalwell "Endgame is an inside look from a member of the House Intelligence and Judiciary committees at what happened in the months leading up to and during the impeachment of the President of the United States, and what it means for our nation's immediate future." 
+
+
+Learn More 
+Buy Now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Follow  @WHCOVIDResponse  for real science, real leadership, and real hope.  https://t.co/lYlw7MU0lr   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Follow  @WHCOVIDResponse  for real science, real leadership, and real hope.  https://t.co/lYlw7MU0lr   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        RT  @tribelaw : Despite our differences, our carefully considered views of the law lead all of us to agree that the Constitution pe�  https://t.co/uuwpx5F6Bm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        RT  @tribelaw : Despite our differences, our carefully considered views of the law lead all of us to agree that the Constitution pe�  https://t.co/uuwpx5F6Bm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        White nationalist extremism is one of the most serious national security threats we face. We're going to expose, co�  https://t.co/7S9AdEgEBe   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        @ericswalwell                                 
+
+
+                        White nationalist extremism is one of the most serious national security threats we face. We're going to expose, co�  https://t.co/7S9AdEgEBe   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Enacted mask mandate, rejoined WHO & Paris Agreement, revoked KeystoneXL permit, extended student loan relief, repe�  https://t.co/dnqdICjtwV   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Enacted mask mandate, rejoined WHO & Paris Agreement, revoked KeystoneXL permit, extended student loan relief, repe�  https://t.co/dnqdICjtwV   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        I can think of no better representation of how we felt out there today...  #InaugurationDay   https://t.co/yJ6t3o6HAE   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        I can think of no better representation of how we felt out there today...  #InaugurationDay   https://t.co/yJ6t3o6HAE   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+
+<style>
+
+.hero-action-buttons .default-action-buttons a:last-child span {
+
+display: none;
+
+}
+
+
+
+@media (min-width: 551px) {
+
+.hero-action-buttons .default-action-buttons a strong {
+
+position: absolute;
+
+display: block;
+
+left: 0;
+
+width: 100%;
+
+top: 26px;
+
+}
+
+
+
+.hero-action-buttons .default-action-buttons a:last-child {
+
+padding-top: 50px;
+
+padding-bottom: 0;
+
+}
+
+
+
+.hero-action-buttons .default-action-buttons a:last-child span {
+
+display: block;
+
+}
+
+}
+
+</style>
+
+
+End Gun Violence � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A National Framework to 
+End Gun Violence 
+
+
+
+
+
+Each year in the United States, more than 100,000 people are  shot , and more than a third of them die.  The fact of the matter is that the United States has a gun problem. The only way to tackle this epidemic is with a comprehensive plan and a President who puts gun violence at the top of the agenda. My plan to end gun violence would bring the full force of the presidency to bear on the issue. That means working with Congress to pass new laws. It means spending money. It means putting the Department of Justice to work fighting special interests in the courts. It means executive action. And it means using the President�s bully pulpit to spur states into action. Nothing less will do. 
+No plan to curb gun violence in the United States is complete if it fails to recognize that not all gun violence is the same. On an average day in the United States, suicides and criminal homicides  claim  nearly as many lives as we lost to mass shootings in 2017, which was the deadliest year on record for mass shootings in this country.  Ending gun violence in the United States requires a comprehensive approach that starts in manufacturing facilities and does not end until every community in the United States is safe.  I will fight like hell to give people a reason to live, foster a culture of hope in every neighborhood, regulate firearms and ammunition to protect communities and police officers, and ban semiautomatic assault weapons. 
+Here�s my plan 
+I. Ban and Buy Back Semiautomatic Assault Weapons 
+II. Invest in Hope for Our Neighborhoods 
+III. Tackle America�s Firearm Suicide Epidemic 
+IV. Protect Victims of Domestic Violence 
+V. Mitigate and Prevent Mass Shootings 
+VI. Secure All Sales of Firearms and Ammunition 
+VII. Invest in Gun Violence Research and Community-Centered Health Care 
+VIII. Regulate Manufacturers 
+
+I.������ Ban and Buy Back Semiautomatic Assault Weapons 
+Semiautomatic assault weapons were made for the military and police. They are weapons built for carnage. They are powerful enough to blow through bulletproof vests and usually have large-capacity magazines that can be quickly replaced. That is why they are often the weapon of choice for mass murderers, and that is why they need to be banned in the United States for civilians outside shooting ranges and hunting clubs. A ban-and-buy-back plan is an investment in the right to live. 
+Here�s how: 
+
+Ban civilian possession of military-style semiautomatic assault weapons with an exception shooting ranges and hunting clubs. 
+Buy back military-style semiautomatic assault weapons from anyone who chooses to follow the law. 
+Criminally prosecute any person caught defying the law. 
+
+II.������ Invest in Hope for Our Neighborhoods 
+We will never end gun violence if we do not invest in hope. The truth of the matter is that the communities most impacted by gun violence� communities of color  and people who live in  poverty , especially in America�s  urban areas �also have suffered from decades of divestment. We have neglected communities of color, and we have failed to invest in young Black men across the country. In 2012, 90 people were killed in mass shootings like the tragedies at Sandy Hook and Aurora. That same year, around 6,000 Black men and children  died  from gun homicide. Young Black men shot down in Flint, Baltimore, Newark, Baton Rouge, and in neighborhoods across this country cannot be forgotten. We are failing as a society to preserve Black lives or to even reflect on the loss of Black lives to gun violence. To end gun violence, we must drastically improve the social and economic factors that have fed cycles of violence for far too long. Government has failed to  invest  in the long-term wellbeing of poverty-stricken neighborhoods and communities of color. Victims of gun violence and community leaders who are on the front lines fighting for their neighborhoods recognize that by the time someone picks up a gun, layers upon layers of systemic injustice have already failed them. Ending gun violence means investing in more community-oriented police officers than patrol officers. It means investing in hope to prevent people from picking up a gun in the first place. 
+Here�s how: 
+
+Invest money and research into equalizing America�s public schools, so that schools are safe and equitable, and to close the racial gap in access to STEM education. 
+Devote federal funding streams to America�s low-income neighborhoods and communities of color to replace decades of divestment and develop community-wide solutions for ending gun violence, including better health care, greater economic opportunity, adult literacy and educational programs, and quality of life improvements. 
+Fund after-school programs, youth development, and youth empowerment programs that give young people opportunities to grow into responsible, civic-minded leaders. 
+Implement a federal law that targets gun trafficking. 
+Invest in community-based gun violence and gang-intervention programs that target the social norms and behaviors driving violence. 
+Incentivize law enforcement to collect ballistics for every gun crime and to run ballistics through the National Integrated Ballistic Information Network. 
+Fund emergency medical and triage training for law enforcement officers in areas most at risk for gun violence, so that people who are shot do not have to wait for an ambulance or hospital before being triaged. 
+Improve post-prison reentry services across the country to help foster healthy development after an offender has served his or her sentence. 
+Work to increase trust between communities of color and local police by investing in more community-oriented police than patrol police. 
+Require that any department receiving a Community Oriented Policing Services grant utilize body cameras and reflect the diversity of the municipality it serves. 
+
+III.������ Tackle America�s Firearm Suicide Epidemic 
+Desperation is destroying America�s families. Suicide rates have gone up everywhere we look, and the trend has been especially dramatic among men and children. Every single day in this country, around 59 people die from suicide. Those are 22,000 Americans who die each year. A  disproportionate  number of them are middle-aged men and senior citizens, but over the past ten years, firearm suicide has risen more than 60 percent among children and teenagers. One thing is true across all victim demographics: Our country�s suicide problem is a gun problem. That is because suicide attempts are often  impulsive �7 out of 10 people who attempt suicide do so within an hour of deciding to end their life�and guns are made to kill. It follows that in places where guns are more readily available, suicide deaths are more  common . The fact of the matter is that a person who has easy access to firearms during a suicide crisis is far  more likely  to die than someone who does not have access to a firearm. We need to reduce firearm suicides. 
+Here�s how: 
+
+Expand access to mental health services for all Americans. 
+Ensure that adequate funding is directed to the Department of Veterans Affairs for mental health and suicide prevention programs that reach all veterans. 
+Implement a 48-hour cooling-off period between the time a person purchases a firearm and the time they take possession of it. 
+Establish standards for safely storing firearms including smart tech, mandate that all gun owners comply with those standards, and fund a national educational program focused on safe storage of firearms. 
+Require gun owners to report the theft or loss of a firearm within 24 hours. 
+
+IV.������ Protect Victims of Domestic Violence 
+No woman, no child, no person should have to fear that their abuser has a gun. Too often, however, their abusers do have access to firearms. That must end. Guns are a major driver of domestic violence in the United States. Our country is the  most dangerous  high-income country for violence against women. A third of American women will experience some form of intimate partner violence in their lifetime. More than  two-thirds  of battered women report having guns used against them. And somewhere between 14 and  20 percent  of women lost to homicide are killed by an intimate partner. American gun policy has failed women, and we have to fix it. Reducing gun violence against women starts with getting guns out of the hands of dangerous people. 
+Here�s how: 
+
+Close the domestic partner abuse loophole by prohibiting any person convicted of abusing a dating partner from possessing a firearm. 
+Close the loophole that allows a person to possess a firearm even if they are convicted of abusing a sibling, parent, or extended family member. 
+Close the loophole that allows convicted stalkers to possess a firearm. 
+Close the loophole that allows people subject to ex parte domestic violence protective orders to possess a firearm during the period before their hearing. 
+Require all abusers to surrender their firearms to police or other officials upon conviction. 
+Require that states and municipalities enter into the proper databases all people who fall under prohibited categories of abusers. 
+Provide grant funding for police departments to establish victim advocate programs and hire victim advocates. 
+Incentivize states to use lethality assessment tools to evaluate the likelihood that a domestic abuser might kill their partner or a family member. 
+
+V.������ Mitigate and Prevent Mass Shootings 
+Mass shootings are an almost daily occurrence in the United States. Things are so bad that from 2013 to 2019, there was exactly  one week  in which the United States did not suffer from a mass shooting. Some of the deadliest have been at American schools. On April 20, 1999, gunmen murdered twelve students and a teacher at Columbine High School in Colorado. A few years later, seven people were shot to death at Red Lake High School. Five girls were killed at West Nickel Mines School. Thirty-two people were murdered at Virginia Tech University, five at Northern Illinois University, seven at Oikos University, twenty-six at Sandy Hook Elementary, five at Santa Monica College, four at Marysville Pilchuck High School, nine at Umpqua Community College, seventeen at Marjory Stoneman Douglas High School, and ten at Santa Fe High School. The common denominator: guns. As I have said since the start of this campaign, I will do my damnedest to put an end to mass shootings. 
+Here�s how: 
+
+Direct federal funding to establish evidence-based threat assessment programs in public schools, prioritized by need, in order to intervene when students are a risk to themselves or to others. 
+Fully fund the STOP School Violence Act. 
+Invest in a bold national program to ensure that every public school district has access to at least one social worker, psychologist, psychiatrist, or other licensed mental health professional for every 700 students. 
+Publish national standards for evidence-based school facility security and implement training for teachers and administrators. 
+Fund a grant program, administered by the U.S. Department of Homeland Security, that helps schools create evidence-based, community-specific standards for emergency preparedness. 
+Prohibit states from arming teachers because schools are not prisons and introducing guns into classrooms increases the risk of gun violence. 
+Incentivize states to use technology to combat bullying, violence, and self-harm in schools, for example, by creating an anonymous text-message-based reporting system. 
+Create a task force at the Department of Health and Human Services to study and issue physician resources related to bullying, cyberbullying, mental health, and youth violence, modeled on the Massachusetts Aggression Reduction Center and the Bullying and Cyberbullying Prevention and Advocacy Collaborative model. 
+Pass a law requiring all local governments that receive federal emergency management or homeland security funding to develop community-specific plans for the protection of disabled school children during school shootings or other disasters. 
+
+VI.������ Secure All Sales of Firearms and Ammunition 
+Purchasing a deadly weapon in the United States is far too easy. You can buy a gun from a storefront dealer who only sells firearms and ammunition. You can buy a gun from a dealer who operates out of their home. You can buy a gun at a gun show. You can buy a gun from a private seller. Sometimes federal law requires you to undergo a background check. Sometimes it does not. When it comes to ammunition, there are even more purchase options and buyers never have to go through a background check. The federal Bureau of Alcohol, Tobacco, Firearms and Explosives engages in very little oversight of firearms sales, and federal law prohibits ATF from modernizing many of its records. Perhaps most egregiously, federal law does not prohibit people like the Las Vegas mass murderer from  stockpiling  an arsenal of weapons and ammunition. In fact, the Las Vegas shooter was able to lawfully purchase 33 rifles and hoard more 1,600 rounds of ammunition in the 12 months before he killed 58 people and shot another 500. Our laws�or the lack thereof�are killing thousands of Americans, and an NRA-backed federal law makes it virtually impossible to sue gun manufacturers. The United States must secure all sales of firearms and ammunition. 
+Here�s how: 
+
+Implement background checks for all firearm and ammunition purchases, regardless of whether the seller is federally licensed, a gun show vendor, or a private seller. 
+Reinstate President Obama�s executive action to stop firearm purchases by people who receive Social Security checks for mental illness and people deemed unfit to handle their own financial affairs. 
+Require all background checks to include a search of the National Data Exchange�s 400 million records, a policy that, had it been in place, would have blocked the Charleston shooter from lawfully buying the rifle he used to commit mass murder. 
+Develop and implement a system that automatically notifies state law enforcement when someone who is prohibited from purchasing a firearm attempts to do so and is flagged during a background check. 
+Create a federal licensing program for gun owners, requiring them to satisfactorily complete a training program with both written and practical exams, the same way most states do with cars and hunters. 
+Require that liability insurance be purchased before a person can buy, trade, or otherwise receive a firearm, which is what states already require for automobiles. 
+Create a national firearm registry that is linked to individual firearms, and require that all purchases, transfers, and donations of firearms be mandatorily registered. 
+Require federally licensed firearms dealers to conduct their business only in commercial sporting goods or firearms premises, not from their homes, funeral homes, or other premises that are not otherwise related to sporting or firearms. 
+Prohibit individuals from purchasing more than one handgun per 30-day period. 
+Require all federally licensed firearms dealers to report firearm theft within 24 hours. 
+Require all federally licensed firearms dealers to conduct an inventory of their firearms at least once every six months and report the inventory results to the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives. 
+Prohibit the online sale of firearms manufactured after the year 1898. 
+Require that all people or businesses selling more than 1,000 rounds of ammunition in a 30-day period be federally licensed in a program similar to the Federal Firearms Licensee system. 
+Prohibit the online sale of ammunition. 
+Limit ammunition sales for individual purchasers to 200 rounds per 30-day period. 
+Ban and buy back bump stocks, large-capacity magazines that are capable of holding more than 10 rounds of ammunition, and silencers. 
+Prohibit individuals from hoarding ammunition in quantities exceeding 200 rounds per caliber or gauge. 
+Repeal the law that prohibits the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives from consolidating and centralizing records relating to the acquisition of firearms maintained by federal firearms licensees. 
+Empower the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives to increase the frequency of unscheduled audits of federally licensed firearms dealers. 
+Incentivize states to create a statutory rebuttable presumption of liability if a gun registered to a person causes harm to the person or property of another. 
+
+VII.������ Invest in Gun Violence Research and Community-Centered Health Care 
+The United States is facing a public health  crisis  like no other: premature deaths from gun violence. At the same time, we are home to the world�s foremost public health organization, the U.S. Centers for Disease Control and Prevention. Nevertheless, since the mid-1990s, the NRA and its cronies in Congress have virtually halted all CDC research into gun violence and gun violence prevention. Meanwhile, more than 100,000 people are shot in the United States each year. More than a third of them  die  from a gunshot wound. Public health experts have  called  for a public health approach to ending gun violence. That includes research at the CDC and National Institutes of Health, which is also suffering under the chilling effects of government limitations. Ending gun violence requires a plan that provides sustained funding for public health research and includes community-centered health care, wraparound services, and community planning to improve lives. 
+Here�s how: 
+
+Veto any appropriations language that could restrict public health agencies from researching gun violence, including the Dickey Amendment and modified versions of the Dickey Amendment. 
+Invest in public health research into gun violence by providing long-term research dollars for the U.S. Centers for Disease Control and Prevention, as well as other federal research agencies, to examine gun violence and solutions. 
+Provide grant funding that allows local communities to expand health care access for trauma victims and people at risk of mental illness, engage in targeted social service outreach, create local violence-prevention programs, and strengthen the types of wraparound services that support people most prone to violence. 
+
+VIII.����� Regulate Manufacturers 
+The U.S. Consumer Product Safety Commission exists to help ensure consumers are not put into unnecessary danger by the products the purchase. Some products need warning labels. Some products need recalls because they are defective. Some products need new safety features. But all products need oversight. From the 1950s to 1970s, at family gatherings across the country, parents and children played lawn darts. The objective of the game was to throw giant darts into plastic hoops in the grass. The problem was that the lawn darts themselves�oversized darts tipped by metal or plastic spears�could puncture skulls. At least three children were  killed  before the CPSC banned the sale of lawn darts in the United States in 1988. To truly improve public safety, we need gun violence reform that starts at the gun and ammunition factories. 
+Here�s how: 
+
+Let people sue gun manufacturers by repealing the Protection for Lawful Commerce in Guns Act, which is a federal law the protects gun manufacturers from civil liability. 
+Empower the Consumer Product Safety Commission or other relevant federal agencies to implement safety standards that must be met by all firearms manufactured or in commerce in the United States, to eliminate junk guns, and to examine the feasibility of smart gun technology. 
+Prohibit the manufacture or sale of guns that are not detectable by metal detectors, including 3-D printed firearms. 
+Regulate firearm assembly kits the same way firearms are regulated. 
+Mandate evidence-based ballistics identification techniques, such as microstamping, for all rifles and handguns manufactured or in commerce in the United States. 
+Prohibit the manufacture and sale of M855 ammunition for civilians. 
+Prohibit the manufacture and sale of hollow-nose bullets for civilians. 
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+ActBlue 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[if gt IE 9]><! 
+
+<![endif] 
+
+
+.feTlyk{color:#1C2345;font-weight:normal;font-size:1rem;line-height:1.6;margin-top:0rem;margin-bottom:0rem;padding:0;-webkit-text-decoration:none;text-decoration:none;display:block;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-size:1rem;}/*!sc*/
+.feTlyk a{color:#1C2345;cursor:pointer;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration-thickness:0.1em;text-decoration-thickness:0.1em;-webkit-text-decoration-width:0.1em;text-decoration-width:0.1em;-webkit-transition:color .25s cubic-bezier(0.25,0.46,0.45,0.94),text-decoration-color .25s cubic-bezier(0.25,0.46,0.45,0.94);transition:color .25s cubic-bezier(0.25,0.46,0.45,0.94),text-decoration-color .25s cubic-bezier(0.25,0.46,0.45,0.94);}/*!sc*/
+.feTlyk a:hover{color:#0644B1;-webkit-text-decoration-color:#009FDB;text-decoration-color:#009FDB;}/*!sc*/
+.feTlyk a:active{color:#0C308F;}/*!sc*/
+.feTlyk a:focus{outline:2px solid #009FDB;}/*!sc*/
+data-styled.g4[id="sc-hKFyIo"]{content:"feTlyk,"}/*!sc*/
+.dqyeru{color:#1C2345;font-weight:normal;font-size:1rem;line-height:1.6;margin-top:0rem;margin-bottom:0rem;padding:0;-webkit-text-decoration:none;text-decoration:none;display:block;margin-top:0rem;margin-bottom:0rem;font-weight:bold;line-height:1.4;font-family:"Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-size:1.75rem;}/*!sc*/
+data-styled.g110[id="sc-fXgAFM"]{content:"dqyeru,"}/*!sc*/
+.ijzSkS{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background:#0058D3;box-shadow:none;cursor:pointer;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;min-height:3.375rem;padding:1rem 2rem;position:relative;text-align:center;-webkit-transition:background .25s,-webkit-transform .25s;-webkit-transition:background .25s,transform .25s;transition:background .25s,transform .25s;line-height:1;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight:bold;font-size:1rem;font-style:normal;text-transform:none;-webkit-letter-spacing:0;-moz-letter-spacing:0;-ms-letter-spacing:0;letter-spacing:0;color:#FFFFFF;border-radius:4px 4px 4px 4px;border-top:0;border-right:0;border-bottom:0;border-left:0;}/*!sc*/
+.ijzSkS svg{fill:#FFFFFF;height:1.125rem;width:1.125rem;}/*!sc*/
+.ijzSkS svg:first-child{margin-right:0.25rem;}/*!sc*/
+.ijzSkS svg:last-child{margin-left:0.25rem;}/*!sc*/
+.ijzSkS:active,.ijzSkS:focus{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background:#0058D3;box-shadow:none;cursor:pointer;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;min-height:3.375rem;padding:1rem 2rem;position:relative;text-align:center;-webkit-transition:background .25s,-webkit-transform .25s;-webkit-transition:background .25s,transform .25s;transition:background .25s,transform .25s;line-height:1;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight:bold;font-size:1rem;font-style:normal;text-transform:none;-webkit-letter-spacing:0;-moz-letter-spacing:0;-ms-letter-spacing:0;letter-spacing:0;color:#FFFFFF;border-radius:4px 4px 4px 4px;border-top:0;border-right:0;border-bottom:0;border-left:0;}/*!sc*/
+.ijzSkS:active svg,.ijzSkS:focus svg{fill:#FFFFFF;height:1.125rem;width:1.125rem;}/*!sc*/
+.ijzSkS:active svg:first-child,.ijzSkS:focus svg:first-child{margin-right:0.25rem;}/*!sc*/
+.ijzSkS:active svg:last-child,.ijzSkS:focus svg:last-child{margin-left:0.25rem;}/*!sc*/
+.ijzSkS:hover,.ijzSkS:active:hover,.ijzSkS:focus:hover{-webkit-transform:scale(1.04);-ms-transform:scale(1.04);transform:scale(1.04);background:#004bb4;}/*!sc*/
+data-styled.g198[id="StyledButton__StyledAnchorButton-a7s38j-0"]{content:"ijzSkS,"}/*!sc*/
+body{--edit-pane-width:320px;-webkit-font-smoothing:antialiased;min-width:320px;font-family:Helvetica,Arial,Verdana,sans-serif;font-weight:400;line-height:1.5;color:#657287;margin:0;background-color:#FFFFFF;background-image:none;background-position:center center;background-size:cover;background-repeat:no-repeat;background-attachment:fixed;background-image:url('');}/*!sc*/
+body #cf-app-target{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;height:100vh;}/*!sc*/
+body #ActBlueCustomizableContentWrapper{-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto;}/*!sc*/
+@media (min-width:768px){body{background-image:url('');}}/*!sc*/
+body._list_edit{position:relative;min-width:768px + var(--edit-pane-width);min-width:calc(768px + 320px);}/*!sc*/
+body._list_edit .container{width:auto;}/*!sc*/
+body._list_edit #ActBlueCustomizableContentWrapper{margin-left:var(--edit-pane-width);margin-left:320px;}/*!sc*/
+body._list_edit #list-admin-wrapper{position:absolute;height:105%;z-index:8;}/*!sc*/
+@media (min-width:768px){body._list_edit #list-admin-wrapper{z-index:7;}}/*!sc*/
+body._list_edit nav.navbar .brand{margin-left:var(--edit-pane-width);margin-left:320px;}/*!sc*/
+@media(max-width:767px){body._list_edit{min-width:100vw;}body._list_edit #ActBlueCustomizableContentWrapper{display:none;}body._list_edit #list-admin-wrapper{height:100vh;}body._list_edit nav.navbar{display:none;}}/*!sc*/
+@media print{body{font-size:0.75em;font-family:Arial,Verdana,sans-serif;margin:0;width:7in;padding:0 !important;}}/*!sc*/
+@media(max-width:767px){body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}}/*!sc*/
+@media(min-width:768px) and (max-width:1088px){body._list_edit{min-width:100vw;}body._list_edit #ActBlueCustomizableContentWrapper{max-width:calc(100vw - var(--edit-pane-width));max-width:calc(100vw - 320px);width:calc(100vw - var(--edit-pane-width));width:calc(100vw - 320px);overflow-x:hidden;}body._list_edit #header,body._list_edit .navbar.in,body._list_edit #js-contentArea,body._list_edit #js-cf_container{width:100vw;}}/*!sc*/
+data-styled.g214[id="sc-global-fUwEZE1"]{content:"sc-global-fUwEZE1,"}/*!sc*/
+.iBlNjb{color:#384056;border:none;background-color:#FFFFFF;padding:1.25rem 0.75rem;width:100%;font-size:16px !important;text-align:center;position:relative;}/*!sc*/
+.iBlNjb:after{content:'';display:block;position:absolute;top:6px;right:6px;bottom:6px;left:6px;height:calc(100% - 12px);width:calc(100% - 12px);border:1px solid #657287;}/*!sc*/
+.iBlNjb p{margin:0 0 0.5rem;}/*!sc*/
+.iBlNjb p:last-child{margin:0;}/*!sc*/
+data-styled.g215[id="FECBox__StyledFECBox-fxs4bp-0"]{content:"iBlNjb,"}/*!sc*/
+.lplVR{width:940px;max-width:100%;margin:0 auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g219[id="StyledBlocks__StyledAlignmentMaxWidthBlock-sc-2phorf-0"]{content:"lplVR,"}/*!sc*/
+.QRiJl{padding:1rem 0.5rem 1rem;}/*!sc*/
+@media (min-width:768px){.QRiJl{padding:1rem 0.5rem 1rem;}}/*!sc*/
+data-styled.g220[id="StyledBlocks__StyledHeaderBlock-sc-2phorf-1"]{content:"QRiJl,"}/*!sc*/
+.iDJxQq{padding:0rem 1rem 0rem 1rem;border-radius:0px 0px 0px 0px;border-top:0;border-right:0;border-bottom:0;border-left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:540px;max-width:100%;}/*!sc*/
+@media (min-width:768px){.iDJxQq{width:100%;padding:0rem 0rem 0rem 0rem;}}/*!sc*/
+data-styled.g221[id="StyledBlocks__StyledHeaderInnerBlock-sc-2phorf-2"]{content:"iDJxQq,"}/*!sc*/
+.fsiSvg{padding:0.375rem 0.5rem 0.375rem;}/*!sc*/
+@media (min-width:768px){.fsiSvg{padding:1rem 0.5rem 1rem;}}/*!sc*/
+data-styled.g222[id="StyledBlocks__StyledBodyBlock-sc-2phorf-3"]{content:"fsiSvg,"}/*!sc*/
+.cXZemB{background:#FFFFFF;padding:0.375rem 0.375rem 0.375rem 0.375rem;border-radius:0px 0px 0px 0px;border-top:0;border-right:0;border-bottom:0;border-left:0;width:540px;max-width:100%;}/*!sc*/
+@media (min-width:768px){.cXZemB{width:100%;padding:0.5rem 0.5rem 0.5rem 0.5rem;}}/*!sc*/
+data-styled.g223[id="StyledBlocks__StyledInnerBodyBlock-sc-2phorf-4"]{content:"cXZemB,"}/*!sc*/
+.fnauFX{padding:0.5rem 0.375rem 0.5rem 0.375rem;border-radius:0px 0px 0px 0px;border-top:0;border-right:0;border-bottom:0;border-left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}/*!sc*/
+@media (min-width:768px){.fnauFX{padding:0.5rem 0.5rem 0.5rem 0.5rem;}}/*!sc*/
+@media (min-width:768px){.fnauFX{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}.fnauFX .StyledBlocks__StyledAskBlock-sc-2phorf-6{-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;margin:0 16px 0 0;}.fnauFX .StyledBlocks__StyledFormBlock-sc-2phorf-7{width:450px;max-width:50%;margin:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}}/*!sc*/
+@media (min-width:1024px){.fnauFX{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}.fnauFX .StyledBlocks__StyledAskBlock-sc-2phorf-6{-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;margin:0 16px 0 0;}.fnauFX .StyledBlocks__StyledFormBlock-sc-2phorf-7{width:450px;max-width:50%;margin:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}}/*!sc*/
+data-styled.g224[id="StyledBlocks__StyledMainContentBlock-sc-2phorf-5"]{content:"fnauFX,"}/*!sc*/
+.gWpCHk{padding:0.375rem 0.375rem 0.375rem 0.375rem;border-radius:0px 0px 0px 0px;border-top:0;border-right:0;border-bottom:0;border-left:0;margin-bottom:1rem;width:100%;}/*!sc*/
+@media (min-width:768px){.gWpCHk{padding:0.5rem 0.5rem 0.5rem 0.5rem;}}/*!sc*/
+data-styled.g225[id="StyledBlocks__StyledAskBlock-sc-2phorf-6"]{content:"gWpCHk,"}/*!sc*/
+.iiFdys{width:100%;padding:0.375rem 0.375rem 0.375rem 0.375rem;border-radius:0px 0px 0px 0px;border-top:0;border-right:0;border-bottom:0;border-left:0;max-width:540px;}/*!sc*/
+@media (min-width:768px){.iiFdys{padding:0.5rem 0.5rem 0.5rem 0.5rem;}}/*!sc*/
+data-styled.g226[id="StyledBlocks__StyledFormBlock-sc-2phorf-7"]{content:"iiFdys,"}/*!sc*/
+.dwLOpK{background:#FFFFFF;margin-top:32px;padding:0.75rem 0.75rem 0.75rem 0.75rem;border-radius:0px 0px 0px 0px;border-top:1px solid #CCD3DE;border-right:0;border-bottom:0;border-left:0;color:#657287;white-space:pre-wrap;word-wrap:break-word;}/*!sc*/
+@media (min-width:768px){.dwLOpK{padding:1.25rem 1.25rem 1.25rem 1.25rem;}}/*!sc*/
+data-styled.g227[id="StyledBlocks__StyledRulesBlock-sc-2phorf-8"]{content:"dwLOpK,"}/*!sc*/
+.fSKZCW{max-height:9.375rem;max-height:15.625rem;}/*!sc*/
+@media (min-width:768px){.fSKZCW{max-height:9.375rem;}}/*!sc*/
+data-styled.g228[id="BrandingHeaderImage__StyledImg-k0bci8-0"]{content:"fSKZCW,"}/*!sc*/
+.fuQgFF{color:#1C2345;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight:bold;font-size:1.75rem;font-style:normal;-webkit-text-decoration:none;text-decoration:none;text-transform:none;-webkit-letter-spacing:0;-moz-letter-spacing:0;-ms-letter-spacing:0;letter-spacing:0;padding:0rem 0rem 0rem 0rem;margin-bottom:1rem;}/*!sc*/
+data-styled.g275[id="StyledFormAskTypography__StyledFormAskTitle-sc-1jeq5yw-0"]{content:"fuQgFF,"}/*!sc*/
+.ksGSUw{color:#657287;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight:normal;font-size:1rem;font-style:normal;-webkit-text-decoration:none;text-decoration:none;text-transform:none;-webkit-letter-spacing:0;-moz-letter-spacing:0;-ms-letter-spacing:0;letter-spacing:0;}/*!sc*/
+data-styled.g276[id="StyledFormAskTypography__StyledFormAskMessage-sc-1jeq5yw-1"]{content:"ksGSUw,"}/*!sc*/
+.XhvCR{margin-top:32px;}/*!sc*/
+data-styled.g349[id="FooterDisclosures__StyledDisclosureParagraph-sc-4ehier-0"]{content:"XhvCR,"}/*!sc*/
+.dHUlcg{margin:0 auto;width:10rem;}/*!sc*/
+data-styled.g432[id="Skeletons__ContinueButtonWrapper-sc-1lajppa-0"]{content:"dHUlcg,"}/*!sc*/
+.flDWFj{padding-top:2rem;}/*!sc*/
+.flDWFj p{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-name:fUFvAr;animation-name:fUFvAr;-webkit-animation-timing-function:linear;animation-timing-function:linear;background:#E6E9ED;background:linear-gradient(to right,#E6E9ED 10%,#CCD3DE 20%,#E6E9ED 30%);background-size:1400px 700px;pointer-events:none;position:relative;height:4rem;width:100%;}/*!sc*/
+.flDWFj ul{margin:2rem 0 1rem;list-style:none;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;}/*!sc*/
+.flDWFj li{margin:0 1rem 1rem 0;width:calc(50% - 0.5rem - 1px);}/*!sc*/
+.flDWFj li:nth-of-type(2n){margin-right:0;}/*!sc*/
+@media (min-width:768px){.flDWFj li{margin:0 1rem 1rem 0;width:calc(25% - 0.75rem - 1px);}.flDWFj li:nth-of-type(2n){margin:0 1rem 1rem 0;}.flDWFj li:nth-of-type(4n){margin-right:0;}}/*!sc*/
+.flDWFj a{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-name:fUFvAr;animation-name:fUFvAr;-webkit-animation-timing-function:linear;animation-timing-function:linear;background:#E6E9ED;background:linear-gradient(to right,#E6E9ED 10%,#CCD3DE 20%,#E6E9ED 30%);background-size:1400px 700px;pointer-events:none;position:relative;}/*!sc*/
+data-styled.g433[id="Skeletons__ContributionWrapper-sc-1lajppa-1"]{content:"flDWFj,"}/*!sc*/
+@-webkit-keyframes fUFvAr{0%{background-position:-700px 0;}100%{background-position:700px 0;}}/*!sc*/
+@keyframes fUFvAr{0%{background-position:-700px 0;}100%{background-position:700px 0;}}/*!sc*/
+data-styled.g451[id="sc-keyframes-fUFvAr"]{content:"fUFvAr,"}/*!sc*/
+
+
+#cf_widget {
+padding: 1em 2em;
+}
+
+
+
+
+esi
+<script type='text/javascript'>
+window.__abPrefill = <esi:include src="/api/cf/prefill" />
+</script>
+
+
+Making a contribution on ActBlue requires JavaScript to be enabled. 
+
+Donate to Eric Swalwell Eric needs your support in order to keep protecting what's important�our healthcare, our paychecks, our future, and our democracy. Will you stand with Eric? No donation is too small and every donation matters.   � � � � � � � � � Contribution rules I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder). This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution. I am at least eighteen years old. I am not a federal contractor. I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person. Contributions to Swalwell for Congress are not tax deductible for federal income tax purposes.  Contributions are limited to $2,800 per individual per election.  Federal law requires use of our best efforts to report the name, address, occupation and the employer of individuals whose contributions exceed $200 per election cycle. By proceeding with this transaction, you agree to ActBlue's  terms & conditions . Paid for by ActBlue ( actblue.com ) and not authorized by any candidate or candidate's committee. Contributions or gifts to ActBlue are not deductible as charitable contributions for Federal income tax purposes. 
+
+
+
+Sign Up � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Updates 
+Sign Up 
+
+                Want to stay current with campaign updates from Eric? We can do this together: Go big, be bold, and do good.                     
+
+
+
+
+Email * 
+
+ZIP Code 
+
+
+
+
+
+
+
+
+
+
+
+
+This iframe contains the logic required to handle Ajax powered Gravity Forms. 
+
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply.   
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+Why I'm Running � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I ' m � R u n n i n g   
+
+For Congress 
+
+
+
+
+
+I see an America in partisan quicksand, making zero progress on the things that matter most. I hear from school children who are learning in fear because too many lawmakers love their guns more than they love our kids. 
+I want to bring the promise of America to  all  Americans. The promise is a simple one: if you work hard, your blood, sweat, and tears should add up to you doing better for yourself and dreaming bigger for your kids. 
+We need leaders who are willing to go big on the issues, be bold with solutions, and do good in governing. 
+That�s what you and I can do together: Go big, be bold, and do good. 
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+
+
+#fancy_box-1 {
+
+background: #0a0a0a;
+
+}
+
+
+
+#fancy_box-1 .box-wrap {
+
+background: #000;
+
+}
+
+#fancy_box-1 .box-wrap {
+
+background: #000;
+
+max-width: 550px;
+
+margin: 0 auto 0 0;
+
+}
+
+#fancy_box-1 .box {
+
+margin-left: auto;
+
+margin-right: -660px;
+
+max-width: 700px;
+
+background: #192b60;
+
+}
+
+
+
+#fancy_box-1 .box-wrap {     margin-left: 18%; }
+
+
+
+@media (max-width: 1600px) {  #fancy_box-1 .box-wrap {     margin-left: 12%; } }
+
+
+
+@media (max-width: 1366px) {  #fancy_box-1 .box-wrap {     margin-left: 4%; } }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.topper.has-big-text h4 {
+
+margin-top: 45px
+
+}
+
+
+
+.topper p.additional-text {
+
+margin-top: 0;
+
+}
+
+.topper .cta-wrap {
+
+padding-top: 20px;
+
+}
+
+
+
+
+
+
+
+<style>
+
+@media (min-width: 768px) {
+
+.topper span.img.is-burn.center:before {
+
+content: '';
+
+display: block;
+
+position: absolute;
+
+height: 190px;
+
+width: 100%;
+
+background-image: linear-gradient(to top,rgba(21,39,95,0) 33%,#15275F 92%);
+
+opacity: 0.4;
+
+}
+
+}
+
+
+
+.topper .treated-image .is-bg {
+
+background-position: 75% top;
+
+}
+
+@media (max-width: 375px) {
+
+.topper.has-image.has-big-text {
+
+padding: 64% 0 6.5%;
+
+}
+
+}
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+.video-wrap video {
+
+-webkit-transform: translateX(-50%) translateY(-41%);
+
+-moz-transform: translateX(-50%) translateY(-41%);
+
+-ms-transform: translateX(-50%) translateY(-41%);
+
+-o-transform: translateX(-50%) translateY(-41%);
+
+transform: translateX(-50%) translateY(-41%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G O � B I G   
+
+B E � B O L D   
+
+D O � G O O D   
+
+Keep Eric Fighting 
+
+Donate to protect what's important - our healthcare, our future, and our democracy.     
+
+
+
+            Donate!                                     
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        WHO I AM             
+
+
+My Story Are you ready to go big, be bold and do good with me? 
+For the last six years, I�ve represented California�s 15th Congressional District, including much of the eastern San Francisco Bay Area. I was born in Iowa and spent my early years in Algona, where my dad served as police chief, before our family moved around and eventually settled in Dublin, Calif...  Story Continues 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endgame   by Eric Swalwell "Endgame is an inside look from a member of the House Intelligence and Judiciary committees at what happened in the months leading up to and during the impeachment of the President of the United States, and what it means for our nation's immediate future." 
+
+
+Learn More 
+Buy Now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Follow  @WHCOVIDResponse  for real science, real leadership, and real hope.  https://t.co/lYlw7MU0lr   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Follow  @WHCOVIDResponse  for real science, real leadership, and real hope.  https://t.co/lYlw7MU0lr   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        RT  @tribelaw : Despite our differences, our carefully considered views of the law lead all of us to agree that the Constitution pe�  https://t.co/uuwpx5F6Bm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        RT  @tribelaw : Despite our differences, our carefully considered views of the law lead all of us to agree that the Constitution pe�  https://t.co/uuwpx5F6Bm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        White nationalist extremism is one of the most serious national security threats we face. We're going to expose, co�  https://t.co/7S9AdEgEBe   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        White nationalist extremism is one of the most serious national security threats we face. We're going to expose, co�  https://t.co/7S9AdEgEBe   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Enacted mask mandate, rejoined WHO & Paris Agreement, revoked KeystoneXL permit, extended student loan relief, repe�  https://t.co/dnqdICjtwV   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Enacted mask mandate, rejoined WHO & Paris Agreement, revoked KeystoneXL permit, extended student loan relief, repe�  https://t.co/dnqdICjtwV   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        I can think of no better representation of how we felt out there today...  #InaugurationDay   https://t.co/yJ6t3o6HAE   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        I can think of no better representation of how we felt out there today...  #InaugurationDay   https://t.co/yJ6t3o6HAE   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+
+<style>
+
+.hero-action-buttons .default-action-buttons a:last-child span {
+
+display: none;
+
+}
+
+
+
+@media (min-width: 551px) {
+
+.hero-action-buttons .default-action-buttons a strong {
+
+position: absolute;
+
+display: block;
+
+left: 0;
+
+width: 100%;
+
+top: 26px;
+
+}
+
+
+
+.hero-action-buttons .default-action-buttons a:last-child {
+
+padding-top: 50px;
+
+padding-bottom: 0;
+
+}
+
+
+
+.hero-action-buttons .default-action-buttons a:last-child span {
+
+display: block;
+
+}
+
+}
+
+</style>
+
+
+Endgame � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.article blockquote {
+
+padding: 26px !important;
+
+background: black !important;
+
+float: none;
+
+width: 100% !important;
+
+margin: 20px auto !important;
+
+font-size: 22px;
+
+font-style: italic;
+
+}
+
+
+
+.article blockquote footer {
+
+color: #fff !important;;
+
+font-size: 12px;
+
+}
+
+
+
+.topper.has-image .treated-image {
+
+background: #000000;
+
+}
+
+
+
+
+
+@media (min-width: 769px) {
+
+
+
+.article.has-sidebar .real-container {
+
+max-width: 1000px;
+
+}
+
+
+
+.sidebar-guts {
+
+padding-left: 50px !important;
+
+}
+
+
+
+.article.has-sidebar .sidebar {
+
+width: 330px !important;
+
+}
+
+.article.has-sidebar .content-wrap {
+
+position: relative;
+
+width: -moz-calc(100% - 330px);
+
+width: calc(100% - 330px);
+
+}
+
+}
+
+
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E N D G A M E   
+
+BOOK BY ERIC SWALWELL 
+
+Inside the Impeachment of Donald J. Trump     
+
+
+
+
+
+
+Download the Preview     
+
+Buy the Book     
+
+
+
+
+
+How do you stop a rogue president? 
+How do you protect our country from a man who lies, who obstructs justice, and who seeks to cheat with foreign powers to get reelected? 
+Our constitution offers one remedy: impeachment. Thanks to the courageous actions of public servants who came forward to report his abuses of power, on December 18, 2019, President Donald J. Trump became just the third president in U.S. history to be impeached by the House of Representatives. In Endgame, Congressman Eric Swalwell offers his personal account of his path to office and how he and his colleagues resisted, investigated, and impeached a corrupt president. 
+Of all the characters the Intelligence Committee interviewed in gathering information that led to the impeachment of President Trump, Roger Stone � the president�s longtime political confidante and self-proclaimed dirty trickster � may have been among the most odious. But despite Stone�s renowned bluster and bravado, the interview didn�t go quite as anyone expected� 
+Endgame is an inside look from a member of the House Intelligence and Judiciary committees at what happened in the months leading up to and during the impeachment of the President of the United States, and what it means for our nation�s immediate future. 
+Our current pandemic and racial crises, John Bolton�s late revelations, and the Russian bounty scandal once again have underscored that President Trump puts his personal political interests above the needs of the American people. The book not only gives readers an in-depth, behind-the-scenes look at impeachment but also how it set the stage for this November�s election, and what�s at stake now. 
+�Endgame is the story of courage triumphing over corruption to impeach President Trump. It�s my inside account of America�s public servants stepping up and Congress taking action to try to rein in a president who put his own interests over national security and our elections� integrity,� says author Eric Swalwell. 
+Swalwell�s experience as a prosecutor and his position as a member of both the House Intelligence and House Judiciary committees offer him an important role in�and view on�Trump�s actions and his impeachment. Readers will be fascinated by his unique and personal perspective on this momentous historic event. 
+�The next best thing to being in the room where it happened, this insider�s account of the Trump impeachment is both wise and personal. It doesn�t hurt that the supersmart author is a sure bet to be a major player in our nation�s future.� 
+�Laurence H. Tribe, Carl M. Loeb University Professor and Professor of Constitutional Law, Harvard Law School 
+
+�In an administration where a lot of effort is invested in hiding the truth from the public, Congressman Swalwell�s firsthand account makes for very interesting reading. Here are the details of what is really happening in the halls of Congress and what really happened during the House�s impeachment investigation. It�s a must-read for any serious student of the Trump administration.� 
+�Joyce Vance, former US Attorney and Distinguished Professor of the Practice of Law, University of Alabama School of Law 
+
+
+
+
+
+
+Download the Preview     Buy the Book  
+Available Now! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+Sign Up � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Updates 
+Sign Up 
+
+                Want to stay current with campaign updates from Eric? We can do this together: Go big, be bold, and do good.                     
+
+
+
+
+Email * 
+
+ZIP Code 
+
+
+
+
+
+
+
+
+
+
+
+
+This iframe contains the logic required to handle Ajax powered Gravity Forms. 
+
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply.   
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+
+
+#fancy_box-1 {
+
+background: #0a0a0a;
+
+}
+
+
+
+#fancy_box-1 .box-wrap {
+
+background: #000;
+
+}
+
+#fancy_box-1 .box-wrap {
+
+background: #000;
+
+max-width: 550px;
+
+margin: 0 auto 0 0;
+
+}
+
+#fancy_box-1 .box {
+
+margin-left: auto;
+
+margin-right: -660px;
+
+max-width: 700px;
+
+background: #192b60;
+
+}
+
+
+
+#fancy_box-1 .box-wrap {     margin-left: 18%; }
+
+
+
+@media (max-width: 1600px) {  #fancy_box-1 .box-wrap {     margin-left: 12%; } }
+
+
+
+@media (max-width: 1366px) {  #fancy_box-1 .box-wrap {     margin-left: 4%; } }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.topper.has-big-text h4 {
+
+margin-top: 45px
+
+}
+
+
+
+.topper p.additional-text {
+
+margin-top: 0;
+
+}
+
+.topper .cta-wrap {
+
+padding-top: 20px;
+
+}
+
+
+
+
+
+
+
+<style>
+
+@media (min-width: 768px) {
+
+.topper span.img.is-burn.center:before {
+
+content: '';
+
+display: block;
+
+position: absolute;
+
+height: 190px;
+
+width: 100%;
+
+background-image: linear-gradient(to top,rgba(21,39,95,0) 33%,#15275F 92%);
+
+opacity: 0.4;
+
+}
+
+}
+
+
+
+.topper .treated-image .is-bg {
+
+background-position: 75% top;
+
+}
+
+@media (max-width: 375px) {
+
+.topper.has-image.has-big-text {
+
+padding: 64% 0 6.5%;
+
+}
+
+}
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+.video-wrap video {
+
+-webkit-transform: translateX(-50%) translateY(-41%);
+
+-moz-transform: translateX(-50%) translateY(-41%);
+
+-ms-transform: translateX(-50%) translateY(-41%);
+
+-o-transform: translateX(-50%) translateY(-41%);
+
+transform: translateX(-50%) translateY(-41%);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G O � B I G   
+
+B E � B O L D   
+
+D O � G O O D   
+
+Keep Eric Fighting 
+
+Donate to protect what's important - our healthcare, our future, and our democracy.     
+
+
+
+            Donate!                                     
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        WHO I AM             
+
+
+My Story Are you ready to go big, be bold and do good with me? 
+For the last six years, I�ve represented California�s 15th Congressional District, including much of the eastern San Francisco Bay Area. I was born in Iowa and spent my early years in Algona, where my dad served as police chief, before our family moved around and eventually settled in Dublin, Calif...  Story Continues 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endgame   by Eric Swalwell "Endgame is an inside look from a member of the House Intelligence and Judiciary committees at what happened in the months leading up to and during the impeachment of the President of the United States, and what it means for our nation's immediate future." 
+
+
+Learn More 
+Buy Now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Follow  @WHCOVIDResponse  for real science, real leadership, and real hope.  https://t.co/lYlw7MU0lr   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Follow  @WHCOVIDResponse  for real science, real leadership, and real hope.  https://t.co/lYlw7MU0lr   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        RT  @tribelaw : Despite our differences, our carefully considered views of the law lead all of us to agree that the Constitution pe�  https://t.co/uuwpx5F6Bm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        RT  @tribelaw : Despite our differences, our carefully considered views of the law lead all of us to agree that the Constitution pe�  https://t.co/uuwpx5F6Bm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        White nationalist extremism is one of the most serious national security threats we face. We're going to expose, co�  https://t.co/7S9AdEgEBe   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        White nationalist extremism is one of the most serious national security threats we face. We're going to expose, co�  https://t.co/7S9AdEgEBe   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Enacted mask mandate, rejoined WHO & Paris Agreement, revoked KeystoneXL permit, extended student loan relief, repe�  https://t.co/dnqdICjtwV   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        Enacted mask mandate, rejoined WHO & Paris Agreement, revoked KeystoneXL permit, extended student loan relief, repe�  https://t.co/dnqdICjtwV   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        I can think of no better representation of how we felt out there today...  #InaugurationDay   https://t.co/yJ6t3o6HAE   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            @ericswalwell                                 
+
+
+                        I can think of no better representation of how we felt out there today...  #InaugurationDay   https://t.co/yJ6t3o6HAE   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+
+<style>
+
+.hero-action-buttons .default-action-buttons a:last-child span {
+
+display: none;
+
+}
+
+
+
+@media (min-width: 551px) {
+
+.hero-action-buttons .default-action-buttons a strong {
+
+position: absolute;
+
+display: block;
+
+left: 0;
+
+width: 100%;
+
+top: 26px;
+
+}
+
+
+
+.hero-action-buttons .default-action-buttons a:last-child {
+
+padding-top: 50px;
+
+padding-bottom: 0;
+
+}
+
+
+
+.hero-action-buttons .default-action-buttons a:last-child span {
+
+display: block;
+
+}
+
+}
+
+</style>
+
+
+Volunteer � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+.content-stuff h3 {
+
+color: #fff;
+
+}
+
+.form-stuff {
+
+text-align: left;
+
+}
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Involved 
+Volunteer with Swalwell for Congress 
+
+                We Need YOU to help Eric Swalwell!                     
+
+
+GO BIG, BE BOLD and DO GOOD for all Americans! 
+Join Team Swalwell! 
+If you have any questions, please email� [email�protected] . 
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Text HELP for help, STOP to end. Msg & Data rates may apply.  https://ericswalwell.com/privacy-policy/ 
+
+
+
+
+
+Email * 
+
+Phone * First Name * Last Name * ZIP Code * Do you want an Eric Swalwell Sign? 
+
+Yes! 
+
+
+Not Right Now 
+
+
+
+
+
+
+
+
+
+
+
+
+
+This iframe contains the logic required to handle Ajax powered Gravity Forms. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+Privacy Policy � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy 
+
+
+
+
+
+Information that is gathered from visitors 
+In common with other websites, log files are stored on the web server saving details such as the visitor�s IP address, browser type, referring page and time of visit. 
+Cookies may be used to remember visitor preferences when interacting with the website. 
+Where registration is required, the visitor�s email and a username will be stored on the server. 
+How the Information is used 
+The information is used to enhance the visitor�s experience when using the website to display personalized content and possibly advertising. 
+E-mail may be sent to inform you of news of our services or offers by us or our affiliates. 
+Visitor Options 
+If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive. 
+You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website. 
+Cookies 
+Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. 
+3rd party advertising companies may also use cookies for tracking purposes. 
+Google Ads 
+Google, as a third party vendor, uses cookies to serve ads. 
+Google�s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. 
+Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+My Story � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+.video-wrap video {
+
+-webkit-transform: translateX(-50%) translateY(-41%);
+
+-moz-transform: translateX(-50%) translateY(-41%);
+
+-ms-transform: translateX(-50%) translateY(-41%);
+
+-o-transform: translateX(-50%) translateY(-41%);
+
+transform: translateX(-50%) translateY(-41%);
+
+}
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E R I C   
+
+My Story 
+
+
+
+
+
+Are you ready to go big, be bold and do good with me? 
+For the last six years, I�ve represented California�s 15th Congressional District, including much of the eastern San Francisco Bay Area. My dad was a cop, and my mom made wedding cakes and dollhouses to help make ends meet. Our family moved around and eventually settled in Dublin, Calif. Thanks to my parents� hard work, and to my own decent soccer abilities, I earned a Division 1 soccer scholarship to become the first in my family to attend college. 
+
+My Capitol Hill internship coincided with the Sept. 11, 2001 terrorist attacks, cementing my resolve to enter public service and inspiring my first legislative achievement: creating a public-private college scholarship program for students who lost parents in the attacks. After earning a law degree, working as a county prosecutor, and serving on the Dublin City Council, I won my first House term in 2012 by defeating a 40-year incumbent. 
+As co-chairman of the House Democratic Steering and Policy Committee, I�ve helped set the caucus� policy agenda and oversee committee assignments. As founder and chairman emeritus of Future Forum, I�ve been House Democrats� point man on outreach to millennials � the nation�s biggest, most diverse and best-educated generation. As Chairman of the Intelligence Modernization and Readiness Subcommittee of the House Intelligence Committee, I�ve helped keep our nation safe. And as a Judiciary Committee member, I�ve stood up and spoken out for upholding the rule of law and equality for all. 
+In April 2015, I founded Future Forum: a group of young Democratic Members of Congress, now numbering almost 50, focused on issues of key importance to millennials including college affordability and student loan debt; jobs and economic opportunity; home ownership; and climate change. As chairman, I visited almost 50 U.S. cities to listen to thousands of young Americans and bring their ideas back to Washington to guide policy. 
+I served on the Homeland Security Committee � championing causes such as aviation security � before being appointed to the House Permanent Select Committee on Intelligence. With on-the-ground experience of visits to Afghanistan, Iraq, Lebanon, Turkey, Russia, South Korea, and other nations, and with regular briefings on the threats facing America, I�m well-versed in the threats that face our nation and how to protect us. 
+
+I also serve on the Judiciary Committee, where I use my experience as a prosecutor and as a son and brother of law enforcement officers. On that committee, I also deal with issues including voting rights, LGBT equality, comprehensive immigration reform, and protecting a woman�s right to make her own health care decisions. 
+When House Democrats staged a 25-hour sit-in to protest inaction on gun-violence legislation in June 2016, I was first to start live-streaming the protest from my phone after the House Chamber�s cameras were cut off. When it became clear that Russia interfered in 2016�s election, I co-authored the first legislation calling for creation of an independent, bipartisan commission to investigate the meddling and make recommendations to ensure it never happens again. 
+I�m a Democrat, no doubt about it. But I�ve deliberately charted a bipartisan course � and not just because I�m the son of two Republicans. In my first term, I co-founded the United Solutions Caucus composed of freshman from both sides of the aisle. 
+My most important roles are husband to Brittany and dad to Nelson and Kathryn (a.k.a. Cricket). I�m in this for them, and for your kids too. 
+
+
+
+
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+Email Protection | Cloudflare body{margin:0;padding:0} 
+
+Please enable cookies. 
+
+
+Email Protection 
+You are unable to access this email address  ericswalwell.com 
+/.header  
+
+
+
+The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.  You must enable Javascript in your browser in order to decode the e-mail address . 
+If you have a website and are interested in protecting it in a similar way, you can  sign up for Cloudflare . 
+
+
+
+
+
+
+How does Cloudflare protect email addresses on website from spammers? 
+Can I sign up for Cloudflare? 
+
+
+
+
+
+
+/.section  
+
+
+Cloudflare Ray ID:  61555ce1e85eed83 
+� 
+Your IP : 73.158.52.244 
+� 
+Performance & security by   Cloudflare 
+
+/.error-footer  
+/#cf-error-details  
+/#cf-wrapper  
+
+Why I'm Running � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I ' m � R u n n i n g   
+
+For Congress 
+
+
+
+
+
+I see an America in partisan quicksand, making zero progress on the things that matter most. I hear from school children who are learning in fear because too many lawmakers love their guns more than they love our kids. 
+I want to bring the promise of America to  all  Americans. The promise is a simple one: if you work hard, your blood, sweat, and tears should add up to you doing better for yourself and dreaming bigger for your kids. 
+We need leaders who are willing to go big on the issues, be bold with solutions, and do good in governing. 
+That�s what you and I can do together: Go big, be bold, and do good. 
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
+My Story � Eric Swalwell 
+
+
+This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/  
+
+/ Google Analytics by MonsterInsights  
+
+
+
+Styles  
+[if gt IE 9]><! <![endif] 
+[if lte IE 9]><link rel="stylesheet" href="/wp-content/themes/scotchpress/legacy/style.css"><![endif] 
+[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="/wp-content/themes/scotchpress/js/loners/respond.min.js"></script>
+<![endif] 
+Facebook Pixel Code  
+
+
+End Facebook Pixel Code  
+
+.video-wrap video {
+
+-webkit-transform: translateX(-50%) translateY(-41%);
+
+-moz-transform: translateX(-50%) translateY(-41%);
+
+-ms-transform: translateX(-50%) translateY(-41%);
+
+-o-transform: translateX(-50%) translateY(-41%);
+
+transform: translateX(-50%) translateY(-41%);
+
+}
+
+
+
+
+
+.site-alert .link {
+
+background: rgba(204, 22, 34, 0.93)!important;
+
+}
+
+.site-alert .link:hover {
+
+background: rgba(230, 47, 59, 0.93)!important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+    Donate Now         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E R I C   
+
+My Story 
+
+
+
+
+
+Are you ready to go big, be bold and do good with me? 
+For the last six years, I�ve represented California�s 15th Congressional District, including much of the eastern San Francisco Bay Area. My dad was a cop, and my mom made wedding cakes and dollhouses to help make ends meet. Our family moved around and eventually settled in Dublin, Calif. Thanks to my parents� hard work, and to my own decent soccer abilities, I earned a Division 1 soccer scholarship to become the first in my family to attend college. 
+
+My Capitol Hill internship coincided with the Sept. 11, 2001 terrorist attacks, cementing my resolve to enter public service and inspiring my first legislative achievement: creating a public-private college scholarship program for students who lost parents in the attacks. After earning a law degree, working as a county prosecutor, and serving on the Dublin City Council, I won my first House term in 2012 by defeating a 40-year incumbent. 
+As co-chairman of the House Democratic Steering and Policy Committee, I�ve helped set the caucus� policy agenda and oversee committee assignments. As founder and chairman emeritus of Future Forum, I�ve been House Democrats� point man on outreach to millennials � the nation�s biggest, most diverse and best-educated generation. As Chairman of the Intelligence Modernization and Readiness Subcommittee of the House Intelligence Committee, I�ve helped keep our nation safe. And as a Judiciary Committee member, I�ve stood up and spoken out for upholding the rule of law and equality for all. 
+In April 2015, I founded Future Forum: a group of young Democratic Members of Congress, now numbering almost 50, focused on issues of key importance to millennials including college affordability and student loan debt; jobs and economic opportunity; home ownership; and climate change. As chairman, I visited almost 50 U.S. cities to listen to thousands of young Americans and bring their ideas back to Washington to guide policy. 
+I served on the Homeland Security Committee � championing causes such as aviation security � before being appointed to the House Permanent Select Committee on Intelligence. With on-the-ground experience of visits to Afghanistan, Iraq, Lebanon, Turkey, Russia, South Korea, and other nations, and with regular briefings on the threats facing America, I�m well-versed in the threats that face our nation and how to protect us. 
+
+I also serve on the Judiciary Committee, where I use my experience as a prosecutor and as a son and brother of law enforcement officers. On that committee, I also deal with issues including voting rights, LGBT equality, comprehensive immigration reform, and protecting a woman�s right to make her own health care decisions. 
+When House Democrats staged a 25-hour sit-in to protest inaction on gun-violence legislation in June 2016, I was first to start live-streaming the protest from my phone after the House Chamber�s cameras were cut off. When it became clear that Russia interfered in 2016�s election, I co-authored the first legislation calling for creation of an independent, bipartisan commission to investigate the meddling and make recommendations to ensure it never happens again. 
+I�m a Democrat, no doubt about it. But I�ve deliberately charted a bipartisan course � and not just because I�m the son of two Republicans. In my first term, I co-founded the United Solutions Caucus composed of freshman from both sides of the aisle. 
+My most important roles are husband to Brittany and dad to Nelson and Kathryn (a.k.a. Cricket). I�m in this for them, and for your kids too. 
+
+
+
+
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Good     
+
+
+Contribute to the Campaign 
+
+Donate         
+
+
+
+
+$5 
+$5 
+
+$5 $25 $50 $100 $250 $500 $1000 other   
+
+to protect our future and our democracy.     
+
+
+Donate Now 
+
+
+Click on an option to get started. If you�ve saved your payment information with ActBlue Express, your donation will go through immediately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Count Me In! 
+
+
+
+
+Privacy Policy 
+
+By providing your cell phone number you consent to receive periodic campaign updates from Swalwell for Congress. Reply STOP to end or HELP for help. Msg&Data rates may apply. 
+[email�protected] 
+Paid for by Swalwell for Congress 
+
+
+
+
+Sign Up     
+
+
+
+
+
+My Story 
+
+Why I�m Running 
+End Gun Violence 
+
+
+Sign Up 
+
+Volunteer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why I'm Running     
+
+Read Eric's Book     
+
+Sign Up     
+
+
+
+
+
+Scripts & WP Footer  
+
+
+
+
+
+
+
+/*
+
+
+
+.footer-donate,
+
+.site-header .site-nav {
+
+display: none !important;
+
+}
+
+
+
+.site-footer .logo,
+
+footer a,
+
+footer p,
+
+footer br,
+
+footer div {
+
+display: none;
+
+}
+
+
+
+footer .disclaimer {
+
+display: inline-block;
+
+}
+
+
+
+
+
+.site-header .is-donate {
+
+visibility: hidden;
+
+}
+
+
+
+
+
+*/
+
+
