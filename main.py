@@ -9,6 +9,7 @@ import urllib.request
 import csv
 from database import PolDB
 import os
+from tqdm import tqdm
 
 def hms_string(sec_elapsed: int) -> str:
     """
