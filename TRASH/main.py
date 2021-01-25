@@ -29,9 +29,26 @@ def get_text(url: str) -> str:
     text = soup.find_all(text=True)
 
 
-    images = set()
-    for img in soup.findAll('img'):
-        images.add(img.get('src'))
+
+    images = []
+    for img in tqdm(soup.find_all("img"), "Extracting images"):
+        img_url = img.attrs.get("src")
+        if not img_url:
+            # if img does not contain src attribute, just skip
+            continue
+        # make the URL absolute by joining domain with the URL that is just extracted
+        img_url = urljoin(url, img_url)
+        # remove URLs like '/hsts-pixel.gif?c=3.2.5'
+        try:
+            pos = img_url.index("?")
+            img_url = img_url[:pos]
+        except ValueError:
+            pass
+        # finally, if the url is valid
+        if is_valid(img_url):
+            images.append(img_url)
+
+
     
 
     output = ''
@@ -54,6 +71,32 @@ def get_text(url: str) -> str:
             output += '{} '.format(t)
 
     return (output, images)
+
+def download_image(url, pathname):
+    """
+    Downloads a file given an URL and puts it in the folder `pathname`
+    """
+    # if path doesn't exist, make that path dir
+    if not os.path.isdir(pathname):
+        os.makedirs(pathname)
+    # download the body of response by chunk, not immediately
+    response = requests.get(url, stream=True)
+
+    # get the total file size
+    file_size = int(response.headers.get("Content-Length", 0))
+
+    # get the file name
+    filename = os.path.join(pathname, url.split("/")[-1])
+
+    # progress bar, changing the unit to bytes instead of iteration (default by tqdm)
+    progress = tqdm(response.iter_content(1024), f"Downloading {filename}", total=file_size, unit="B", unit_scale=True, unit_divisor=1024)
+    
+    with open(filename, "wb") as f:
+        for data in progress:
+            # write data read to the file
+            f.write(data)
+            # update the progress bar manually
+            progress.update(len(data))
 
 def is_valid(url):
     """
@@ -123,7 +166,7 @@ def get_all_text(main_url, name):
             urllib.request.urlretrieve(url, ("images/{}/image_{}.jpg").format(name, counter))
             counter += 1
         else: 
-            try: (text, images_temp) = get_text(main_url); f.write(text); images = images | images_temp
+            try: (text, images_temp) = get_text(main_url); f.write(text); images = images + images_temp; print(text)
             except UnicodeEncodeError: print("Skipped " + url); continue
         elapsed_time = time.time() - start_time
         print("Elapsed Time: {}".format(hms_string(elapsed_time)))
@@ -132,22 +175,10 @@ def get_all_text(main_url, name):
 
     print ("Reading all images..")
     for image in images:
-        print("Reading: " + image)
-        ext = image[image.rfind('.'):]
-        
-        try: 
-            urllib.request.urlretrieve(image, ("images/{}/image_{}" + ext).format(name, counter))
-            
-            counter += 1
-            print("Read.")
-
-        except (ValueError, HTTPError) as e:
-            print("Skipped: " + url)
-        
+        download_image(image, 'images/' + name)
 
 
-    
-    print ("All images read.")
+
     return f
 
 def read_csv(filename: str): 
@@ -178,6 +209,7 @@ if __name__ == '__main__':
         try: f = get_all_text(base_url, person)
         except ConnectionResetError: continue
         contents = f.read()
+        
         db.insert(base_url, person, contents, 'D')
         f.close()
     

@@ -10,4 +10,3 @@ for file in files_to_rem:
 shutil.rmtree('images')
 os.mkdir('images')
 
-
