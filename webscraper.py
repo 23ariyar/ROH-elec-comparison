@@ -39,7 +39,10 @@ def get_all_website_links(url: str) -> list:
     # domain name of the URL without the protocol
     domain_name = urlparse(url).netloc
 
-    soup = BeautifulSoup(requests.get(url).content, "html.parser") #r.content = binary, r.text = unicode
+    headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0) Gecko/20100101 Firefox/55.0',
+    }
+    soup = BeautifulSoup(requests.get(url, headers=headers).content, "html.parser") #r.content = binary, r.text = unicode
 
     for a_tag in soup.findAll("a"): #finds all the <a> tags in this soup
         href = a_tag.attrs.get("href") #href is an attribute
@@ -76,21 +79,36 @@ def get_text(url: str) -> str:
             else:
                 return text
 
+    
+    headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0) Gecko/20100101 Firefox/55.0',
+    }
+
     h = html2text.HTML2Text()
     h.ignore_links = True
-    soup = BeautifulSoup(requests.get(url).content, "html.parser")
+    soup = BeautifulSoup(requests.get(url, headers = headers).content, "html.parser")
     return  text_cleaner(h.handle(soup.prettify()))
 
 def spider_scraper(base: str) -> str:
-    urls = get_all_website_links(base)
+    urls = []
+    #urls = get_all_website_links(base)
+    
+    try: urls = get_all_website_links(base)
+    except: print ('Could not scrape for website links for: ' + base)
+    
 
     my_str = ''
+    
     try: my_str = get_text(base)
     except: print('Skipped: ' + base)
-
+    
+    #my_str = get_text(base)
     for url in urls:
+       # my_str = my_str + get_text(url)
+        
         try: my_str = my_str + get_text(url)
         except: print('Skipped: ' + url) 
+        
         
     return my_str
 
@@ -114,11 +132,6 @@ def read_csv(filename: str):
     return (democrats, republicans)
 
 if __name__ == '__main__':
-
-    f = open("text.txt", "w")
-    f.write(spider_scraper("https://www.zachfornorthdakota.com/"))
-    f.close()
-    """
     db = PolDB('politician.db')
     (democrats, republicans) = read_csv('politicians.csv')
 
@@ -126,5 +139,9 @@ if __name__ == '__main__':
         text = spider_scraper(base_url)
         db.insert(base_url, person, text, 'D')
 
+    for person, base_url in republicans.items():
+        text = spider_scraper(base_url)
+        db.insert(base_url, person, text, 'R')
+
     print('Done.')
-    """
+    
