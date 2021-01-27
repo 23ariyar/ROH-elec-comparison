@@ -95,13 +95,13 @@ def get_text(url: str) -> str:
             else:
                 break
         
-        #removes words in filter
+        
        
 
         #removes non english words, do this when most of the words are removed, length process
-        
         text = " ".join(w for w in nltk.wordpunct_tokenize(text) if w.lower() in WORDS or not w.isalpha())
 
+        #removes words in filter
         for word in FTR:
             text = text.replace(word, '')
          
