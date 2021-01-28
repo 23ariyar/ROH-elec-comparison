@@ -22,6 +22,8 @@ def is_valid(url: str) -> bool:
     """
     Checks whether `url` is a valid URL.
 
+    from https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/
+
     NOTES: The scheme identifies the protocol to be used to access the resource on the Internet. It can be HTTP (without SSL) or HTTPS (with SSL)
     NOTES: general structure of a URL: scheme://netloc/path;parameters?
     NOTES: netloc (which stands for network locality) is what the first level domain (FLD) represents
@@ -32,6 +34,9 @@ def is_valid(url: str) -> bool:
 def get_all_website_links(url: str) -> list:
     """
     Returns all URLs that is found on `url` in which it belongs to the same website
+
+    modified from https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/
+
     """
     # all URLs of `url`
     urls = set()
@@ -183,19 +188,19 @@ if __name__ == '__main__':
     WORDS = set(nltk.corpus.words.words())
 
     #words to exclude
-    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':']
+    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':', '[', ']', '|', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
 
     db = PolDB('politician.db')
     (democrats, republicans) = read_csv('politicians.csv')
 
-    for person, base_url in democrats.items():
+    for num, (person, base_url) in enumerate(democrats.items()):
         text = spider_scraper(base_url)
-        print("Done with base_url: " + base_url)
+        print(str(num + 1) + ") Done with base_url: " + base_url)
         db.insert(base_url, person, text, 'D')
 
-    for person, base_url in republicans.items():
+    for num, (person, base_url) in enumerate(republicans.items()):
         text = spider_scraper(base_url)
-        print("Done with base_url: " + base_url)
+        print(str(51 + num) + ") Done with base_url: " + base_url)
         db.insert(base_url, person, text, 'R')
 
     print('Done.')
