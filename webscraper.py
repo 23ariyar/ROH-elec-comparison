@@ -80,11 +80,12 @@ def get_all_website_links(url: str) -> list:
         
     return urls
 
-def get_text(url: str) -> str:
+def get_text(url: str, min_wc_sentence: int = 5) -> str:
     """
     Returns the text of a given url by using HTML2Text
 
     :param url: a valid url as defined by is_valid
+    :param min_wc_sentence: a minimum amount of words that line should have. defaults to 5
     :return: the text of the url
     """
     def text_cleaner(text):
@@ -100,8 +101,11 @@ def get_text(url: str) -> str:
             else:
                 break
 
+        #if a line has like than 5 words, don't include it. this gets rid of things like donate now, etc.
+        text = ' '.join([line for line in text.split('\n') if len(line.split()) >= min_wc_sentence])
+
         #removes non english words, do this when most of the words are removed, length process
-        text = " ".join(w for w in nltk.wordpunct_tokenize(text) if w.lower() in WORDS or not w.isalpha())
+        text = "".join(w for w in nltk.wordpunct_tokenize(text) if w.lower() in WORDS or not w.isalpha())
 
         #removes words in filter
         for word in FTR:
@@ -179,7 +183,7 @@ if __name__ == '__main__':
 
     #words to exclude
     FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':']
-    text = spider_scraper('https://www.votejaime.com/')
+    text = get_text('https://www.votejaime.com/')
 
     print(text)
     '''
@@ -204,4 +208,5 @@ if __name__ == '__main__':
         db.insert(base_url, person, text, 'R')
 
     print('Done.')
+    
 

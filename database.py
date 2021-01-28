@@ -1,4 +1,5 @@
 import sqlite3
+import cleaner as c
 
 
 class PolDB(object):
@@ -43,4 +44,37 @@ class PolDB(object):
       return '<SQLite DB (' +  self.filename + '): ' + ', '.join(self.column_names) + '>'
 
 
+class PolDB_Text(PolDB):
+    def __init__(self, filename: str):
+        super.__init__(filename)
+        self.conn = sqlite3.connect(filename)
+        self.conn.execute("""
+        CREATE TABLE IF NOT EXISTS politicians (
+          url text,
+          name text,
+          party text,
+          full_text text,
+          word_count integer,
+          top_words text,
+          tracker text)""")
+        self.conn.commit()
+        self.cur = self.conn.cursor()
+        self.pending = 0  # Counter for when to commit
+        self.column_names = ['url', 'name', 'party', 'full_text', 'word_count', 'top_words', 'tracker']
 
+    def insert(self, url: str, name: str, party: str, full_text):
+        """
+        Compresses article and inserts values into db
+        :param pageid: Unique identifier for every wiki article
+        :param title: Title of wiki article
+        :param categories: repr of list of categories
+        :param article: Wiki article
+        """
+        
+        mc = None #c.most_common()
+        wo = None #c.words_on(())
+
+        self.conn.execute("""
+          INSERT or IGNORE INTO politicians VALUES (?, ?, ?, ?, ?, ?, ?);
+        """, (url, name, party, full_text, len(full_text.split()), mc, wo))
+        self.commit()
