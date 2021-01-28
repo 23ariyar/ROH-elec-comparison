@@ -94,9 +94,6 @@ def get_text(url: str) -> str:
                 text = text.replace(text[beg:end+1], '')
             else:
                 break
-        
-        
-       
 
         #removes non english words, do this when most of the words are removed, length process
         text = " ".join(w for w in nltk.wordpunct_tokenize(text) if w.lower() in WORDS or not w.isalpha())
@@ -125,24 +122,22 @@ def spider_scraper(base: str) -> str:
     :param base: a valid url as defined by is_valid
     """
     urls = []
-    #urls = get_all_website_links(base)
     
     try: urls = get_all_website_links(base)
     except: print ('Could not scrape for website links for: ' + base)
     
-
     my_str = ''
     
     try: my_str = get_text(base)
     except: print('Skipped: ' + base)
     
-    #my_str = get_text(base)
     for url in urls:
-       # my_str = my_str + get_text(url)
+        #don't read .pdf and .mp3 links
+        if url[-3: ] == 'pdf' or url[-3: ] == 'mp3': continue
+        
         
         try: my_str = my_str + get_text(url)
         except: print('Skipped: ' + url) 
-        
         
     return my_str
 
@@ -172,6 +167,17 @@ def read_csv(filename: str) -> tuple:
 
 if __name__ == '__main__':
 
+    '''
+    #For Debugging
+    nltk.download('words')
+    WORDS = set(nltk.corpus.words.words())
+
+    #words to exclude
+    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':']
+    text = spider_scraper('https://www.votejaime.com/')
+
+    print(text)
+    '''
     #download all english words
     nltk.download('words')
     WORDS = set(nltk.corpus.words.words())
@@ -193,4 +199,4 @@ if __name__ == '__main__':
         db.insert(base_url, person, text, 'R')
 
     print('Done.')
-    
+
