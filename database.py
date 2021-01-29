@@ -1,6 +1,7 @@
 import sqlite3
 import cleaner as c
 
+#Adapted from https://github.com/MathiasOoi/Gender-Biases-in-Wikipedia/blob/main/Wikipedia/wikidb.py
 
 class PolDB(object):
     def __init__(self, filename: str):
@@ -29,10 +30,6 @@ class PolDB(object):
     def insert(self, url: str, name: str, full_text: str, party: str):
         """
         Compresses article and inserts values into db
-        :param pageid: Unique identifier for every wiki article
-        :param title: Title of wiki article
-        :param categories: repr of list of categories
-        :param article: Wiki article
         """
 
         self.conn.execute("""
@@ -65,10 +62,6 @@ class PolDB_Text(PolDB):
     def insert(self, url: str, name: str, party: str, full_text):
         """
         Compresses article and inserts values into db
-        :param pageid: Unique identifier for every wiki article
-        :param title: Title of wiki article
-        :param categories: repr of list of categories
-        :param article: Wiki article
         """
         
         lowered = full_text.lower()
