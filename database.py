@@ -46,7 +46,7 @@ class PolDB(object):
 
 class PolDB_Text(PolDB):
     def __init__(self, filename: str):
-        super.__init__(filename)
+        self.filename = filename
         self.conn = sqlite3.connect(filename)
         self.conn.execute("""
         CREATE TABLE IF NOT EXISTS politicians (
@@ -71,10 +71,12 @@ class PolDB_Text(PolDB):
         :param article: Wiki article
         """
         
-        mc = None #c.most_common()
-        wo = None #c.words_on(())
+        lowered = full_text.lower()
+        mc = repr(c.most_common(lowered))
+        wo = repr(c.words_on(lowered, ('contribute', 'donate', 'family', 'familys', 'children', 'child', 'kids', 'contribution', 'sign up', 'sign-up')))
+        wc = len(lowered.split())
 
         self.conn.execute("""
           INSERT or IGNORE INTO politicians VALUES (?, ?, ?, ?, ?, ?, ?);
-        """, (url, name, party, full_text, len(full_text.split()), mc, wo))
+        """, (url, name, party, lowered, wc, mc, wo))
         self.commit()

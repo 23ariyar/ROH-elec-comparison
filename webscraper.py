@@ -5,7 +5,7 @@ import time
 import html2text
 import csv
 import nltk
-from database import PolDB
+from database import PolDB_Text
 
 def hms_string(sec_elapsed: int) -> str:
     """
@@ -102,10 +102,10 @@ def get_text(url: str, min_wc_sentence: int = 5) -> str:
                 break
 
         #if a line has like than 5 words, don't include it. this gets rid of things like donate now, etc.
-        text = ' '.join([line for line in text.split('\n') if len(line.split()) >= min_wc_sentence])
+        #text = ' '.join([line for line in text.split('\n') if len(line.split()) >= min_wc_sentence])
 
         #removes non english words, do this when most of the words are removed, length process
-        text = "".join(w for w in nltk.wordpunct_tokenize(text) if w.lower() in WORDS or not w.isalpha())
+        text = " ".join(w for w in nltk.wordpunct_tokenize(text) if w.lower() in WORDS or not w.isalpha())
 
         #removes words in filter
         for word in FTR:
@@ -192,20 +192,19 @@ if __name__ == '__main__':
     WORDS = set(nltk.corpus.words.words())
 
     #words to exclude
-    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':', '[', ']', '|', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
-
-    db = PolDB('politician.db')
+    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':', '[', ']', '|', '/']
+    db = PolDB_Text('politician.db')
     (democrats, republicans) = read_csv('politicians.csv')
 
     for num, (person, base_url) in enumerate(democrats.items()):
         text = spider_scraper(base_url)
         print(str(num + 1) + ") Done with base_url: " + base_url)
-        db.insert(base_url, person, text, 'D')
+        db.insert(base_url, person, 'D', text)
 
     for num, (person, base_url) in enumerate(republicans.items()):
         text = spider_scraper(base_url)
         print(str(51 + num) + ") Done with base_url: " + base_url)
-        db.insert(base_url, person, text, 'R')
+        db.insert(base_url, person, 'R', text)
 
     print('Done.')
     
