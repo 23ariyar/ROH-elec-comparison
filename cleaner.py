@@ -1,7 +1,7 @@
 from collections import Counter
 
 
-def most_common(text: str, FTR: tuple = ['.', ',', '!', 'of', 'and', 'is', 'the']) -> list:
+def most_common(text: str, FTR: tuple = ['.', ',', '!', 'of', 'and', 'is', 'the', 'for', '-', 'to', 'in', 'a', '\\x80\\x94', '"', 's', '(', ')', '\\x80¢']) -> list:
     absolute = Counter(text.split()).most_common(50)
 
     cleaned = []

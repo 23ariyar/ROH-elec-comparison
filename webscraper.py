@@ -35,8 +35,7 @@ def get_all_website_links(url: str) -> list:
     """
     Returns all URLs that is found on `url` in which it belongs to the same website
 
-    modified from https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python/
-
+    modified from https://matix.io/extract-text-from-webpage-using-beautifulsoup-and-python
     """
     # all URLs of `url`
     urls = set()
@@ -86,6 +85,7 @@ def get_text(url: str, min_wc_sentence: int = 5) -> str:
 
     :param url: a valid url as defined by is_valid
     :param min_wc_sentence: a minimum amount of words that line should have. defaults to 5
+    :param images: determines wether to return image urls found
     :return: the text of the url
     """
     def text_cleaner(text):
@@ -174,6 +174,12 @@ def read_csv(filename: str) -> tuple:
     
     return (democrats, republicans)
 
+def iterate_over(my_dict: dict, party: str, database: PolDB_Text) -> None:
+    for num, (person, base_url) in enumerate(my_dict.items()):
+        text = spider_scraper(base_url)
+        print(str(num + 1) + ") Done with base_url: " + base_url + '  (' + party + ')')
+        database.insert(base_url, person, party, text)
+
 if __name__ == '__main__':
 
     '''
@@ -196,15 +202,8 @@ if __name__ == '__main__':
     db = PolDB_Text('politician.db')
     (democrats, republicans) = read_csv('politicians.csv')
 
-    for num, (person, base_url) in enumerate(democrats.items()):
-        text = spider_scraper(base_url)
-        print(str(num + 1) + ") Done with base_url: " + base_url)
-        db.insert(base_url, person, 'D', text)
-
-    for num, (person, base_url) in enumerate(republicans.items()):
-        text = spider_scraper(base_url)
-        print(str(51 + num) + ") Done with base_url: " + base_url)
-        db.insert(base_url, person, 'R', text)
+    iterate_over(democrats, 'D', db)
+    iterate_over(republicans, 'R', db)
 
     print('Done.')
     

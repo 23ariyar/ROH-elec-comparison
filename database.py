@@ -66,7 +66,7 @@ class PolDB_Text(PolDB):
         
         lowered = full_text.lower()
         mc = repr(c.most_common(lowered))
-        wo = repr(c.words_on(lowered, ('contribute', 'donate', 'family', 'familys', 'children', 'child', 'kids', 'contribution', 'sign up', 'sign-up')))
+        wo = repr(c.words_on(lowered, ('contribute', 'donate', 'family', 'child', 'contribution', 'sign up')))
         wc = len(lowered.split())
 
         self.conn.execute("""
