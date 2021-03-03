@@ -40,6 +40,8 @@ def get_all_website_links(url: str) -> list:
     # all URLs of `url`
     urls = set()
     image_urls = set()
+    social_urls = set()
+
 
     # domain name of the URL without the protocol
     domain_name = urlparse(url).netloc
@@ -65,19 +67,24 @@ def get_all_website_links(url: str) -> list:
         if not is_valid(href):
             # not a valid URL
             continue
+        
+        if href[-3:] == 'jpg' or href[-3:] == 'png' or href[-4:] == 'jpeg':
+            #image link
+            image_urls.add(href)
+            continue
+        
+        if 'twitter' in href or 'instagram' in href or 'facebook' in href or 'tiktok' in href:
+            social_urls.add(href)
+
 
         if domain_name not in href:
             #still an internal link
             continue
 
-        if href[-3:] == 'jpg' or href[-3:] == 'png' or href[-4:] == 'jpeg':
-            #image link
-            image_urls.add(href)
-            continue
-
         urls.add(href)
-        
-    return urls
+
+
+    return urls, social_urls
 
 def get_text(url: str, min_wc_sentence: int = 5) -> str:
     """
@@ -95,7 +102,7 @@ def get_text(url: str, min_wc_sentence: int = 5) -> str:
         #removes images and their captions
         while True:
             beg = text.find('![')
-            end = text.find(')', beg)
+            end = text.find(']', beg)
             if beg != -1 and end != -1:
                 text = text.replace(text[beg:end+1], '')
             else:
@@ -123,7 +130,7 @@ def get_text(url: str, min_wc_sentence: int = 5) -> str:
     soup = BeautifulSoup(requests.get(url, headers = headers).content, "html.parser", from_encoding="iso-8859-1")
     return  text_cleaner(h.handle(soup.prettify()))
 
-def spider_scraper(base: str) -> str:
+def complete_scraper(base: str) -> str:
     """
     Given a url, this function will scrape the website for all other urls
     and return the text of all found urls
@@ -132,7 +139,7 @@ def spider_scraper(base: str) -> str:
     """
     urls = []
     
-    try: urls = get_all_website_links(base)
+    try: urls, sm_urls = get_all_website_links(base)
     except: print ('Could not scrape for website links for: ' + base)
     
     my_str = ''
@@ -148,7 +155,7 @@ def spider_scraper(base: str) -> str:
         try: my_str = my_str + get_text(url)
         except: print('Skipped: ' + url) 
         
-    return my_str
+    return my_str, sm_urls
 
 def read_csv(filename: str) -> tuple: 
     """
@@ -176,9 +183,9 @@ def read_csv(filename: str) -> tuple:
 
 def iterate_over(my_dict: dict, party: str, database: PolDB_Text) -> None:
     for num, (person, base_url) in enumerate(my_dict.items()):
-        text = spider_scraper(base_url)
+        text, sm_urls = complete_scraper(base_url)
         print(str(num + 1) + ") Done with base_url: " + base_url + '  (' + party + ')')
-        database.insert(base_url, person, party, text)
+        database.insert(base_url, person, party, text, sm_urls)
 
 if __name__ == '__main__':
 
@@ -189,9 +196,8 @@ if __name__ == '__main__':
 
     #words to exclude
     FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':']
-    text = get_text('https://www.votejaime.com/')
+    get_all_website_links('https://ayannapressley.com/')
 
-    print(text)
     '''
     #download all english words
     nltk.download('words')
@@ -199,12 +205,13 @@ if __name__ == '__main__':
 
     #words to exclude
     FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':', '[', ']', '|', '/']
-    db = PolDB_Text('politician.db')
+    
+    db = PolDB_Text('politicians.db')
     (democrats, republicans) = read_csv('politicians.csv')
 
     iterate_over(democrats, 'D', db)
     iterate_over(republicans, 'R', db)
 
     print('Done.')
-    
+
 

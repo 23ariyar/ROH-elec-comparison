@@ -53,23 +53,25 @@ class PolDB_Text(PolDB):
           full_text text,
           word_count integer,
           top_words text,
-          tracker text)""")
+          tracker text,
+          social_media text)""")
         self.conn.commit()
         self.cur = self.conn.cursor()
         self.pending = 0  # Counter for when to commit
-        self.column_names = ['url', 'name', 'party', 'full_text', 'word_count', 'top_words', 'tracker']
+        self.column_names = ['url', 'name', 'party', 'full_text', 'word_count', 'top_words', 'tracker', 'social_media']
 
-    def insert(self, url: str, name: str, party: str, full_text):
+    def insert(self, url: str, name: str, party: str, full_text, sm_urls = None):
         """
         Compresses article and inserts values into db
         """
         
         lowered = full_text.lower()
         mc = repr(c.most_common(lowered))
-        wo = repr(c.words_on(lowered, ('contribute', 'donate', 'family', 'child', 'contribution', 'sign up')))
+        wo = repr(c.words_on(lowered, ('contribute', 'donate', 'family', 'child', 'contribution', 'sign up', 'we', 'us', 'I', 'you', 'your', 'our', 'me')))
         wc = len(lowered.split())
+        sm_markers = repr(c.extract_social_media_data(sm_urls))
 
         self.conn.execute("""
-          INSERT or IGNORE INTO politicians VALUES (?, ?, ?, ?, ?, ?, ?);
-        """, (url, name, party, lowered, wc, mc, wo))
+          INSERT or IGNORE INTO politicians VALUES (?, ?, ?, ?, ?, ?, ?, ?);
+        """, (url, name, party, lowered, wc, mc, wo, sm_markers))
         self.commit()
