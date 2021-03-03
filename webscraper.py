@@ -138,7 +138,7 @@ def complete_scraper(base: str) -> str:
     :param base: a valid url as defined by is_valid
     """
     urls = []
-    
+    sm_urls = []
     try: urls, sm_urls = get_all_website_links(base)
     except: print ('Could not scrape for website links for: ' + base)
     
@@ -204,7 +204,7 @@ if __name__ == '__main__':
     WORDS = set(nltk.corpus.words.words())
 
     #words to exclude
-    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':', '[', ']', '|', '/']
+    FTR = ['instagram', 'youtube', 'twitter', 'facebook', 'address', '_', '*', '#', '<', '>', ';', ':', '[', ']', '|', '/', "'", "%", "\\x80\\x99", '&', '\\x80¢']
     
     db = PolDB_Text('politicians.db')
     (democrats, republicans) = read_csv('politicians.csv')
